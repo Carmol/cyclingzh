@@ -43,4 +43,6 @@ http://www.iroquois.ch
 http://www.ellokal.ch
 - Don Weber  
 http://www.donweber.ch
-- 
+- Outdoor velodrome "Offene Rennbahn" in Oerlikon  
+Races on Tuesday evenings from early May till end of September  
+Restaurant open on Tuesday and Thursday evenings
