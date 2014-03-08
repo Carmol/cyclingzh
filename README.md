@@ -42,5 +42,5 @@ http://www.iroquois.ch
 - El Lokal  
 http://www.ellokal.ch
 - Don Weber  
-http://www.don-weber.ch
+http://www.donweber.ch
 - 
