@@ -38,9 +38,9 @@ Urban
 Places
 ======
 - Iroquois  
-http://www.iroqois.ch
+http://www.iroquois.ch
 - El Lokal  
 http://www.ellokal.ch
-- Don Webber
-http://www.don-webber.ch
+- Don Weber  
+http://www.don-weber.ch
 - 
