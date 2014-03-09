@@ -34,7 +34,11 @@ Gravel
 Shops
 =====
 - Flamme Rouge  
-http://www.flammerouge.ch
+http://www.flammerouge.ch  
+*Open times*  
+Tue till Fri 14:00 to 21:00  
+Sat 10:00 to 14:00  
+
 - Back yard  
 http://www.backyard.ch  
 *Open times*  
