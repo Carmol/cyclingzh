@@ -43,15 +43,13 @@ Several possible routes
 
 Shops
 =====
-- Flamme Rouge  
+- *Flamme Rouge*   
 http://www.flammerouge.ch  
-*Open times*  
 Tue till Fri 14:00 to 21:00  
 Sat 10:00 to 14:00  
 
-- Back yard  
+- *Back yard*   
 http://www.backyard.ch  
-*Open times*  
 Monday closed  
 Tue till Fri 9.00 to 18.30   
 Sa 9.00 to 16.00   
@@ -60,7 +58,7 @@ Alfred Escher-Str. 25
 Phone +41 44 261 19 19   
 info@backyard.ch
 
-- Tempo Sport (Thalwil)  
+- *Tempo Sport (Thalwil)*  
 http://www.tempo-sport.ch/  
 Tempo-Sport AG                  
 Gotthardstrasse 12              
@@ -68,7 +66,6 @@ Gotthardstrasse 12
 Tel.: +41 (0)44 222 12 12       
 Fax: +41 (0)44 720 10 12        
 E-Mail: tempo@tempo-sport.ch    
-*Open times*  
 Mon 11:00 to 18:30 Uhr      
 Tue till Fr 09:00 to 18:30   
 Sat   09:00 to 16:00    
