@@ -36,7 +36,16 @@ Shops
 - Flamme Rouge  
 http://www.flammerouge.ch
 - Back yard  
-http://www.backyard.ch
+http://www.backyard.ch  
+    
+*Open times*  
+Monday closed  
+Tue till Fri 9.00 to 18.30   
+Sa 9.00 to 16.00   
+Alfred Escher-Str. 25   
+8002 Zürich   
+Phone +41 44 261 19 19   
+info@backyard.ch   
 
 
 Places
