@@ -37,7 +37,6 @@ Shops
 http://www.flammerouge.ch
 - Back yard  
 http://www.backyard.ch  
-    
 *Open times*  
 Monday closed  
 Tue till Fri 9.00 to 18.30   
