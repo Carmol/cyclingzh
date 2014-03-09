@@ -33,8 +33,10 @@ Gravel
 
 Shops
 =====
-- Flamme Rouge
-- Back yard
+- Flamme Rouge  
+http://www.flammerouge.ch
+- Back yard  
+http://www.backyard.ch
 
 
 Places
